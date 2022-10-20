@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "node ./javascript-compilados/Main.js",
+    "palabra":"node ./javascript-compilados/Palabra.js",
+    "diccionario": "node ./javascript-compilados/Diccionario.js",
+    "gestor": "node ./javascript-compilados/GestorDiccionario.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

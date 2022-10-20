@@ -1,0 +1,18 @@
+{
+  "name": "ejercicio_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "node ./javascript-compilados/Main.js",
+    "materia": "node ./javascript-compilados/Materia.js",
+    "alumno": "node ./javascript-compilados/Alumno.js",
+    "doc": "node ./javascript-compilados/Documento.js",
+    "persona": "node ./javascript-compilados/Persona.js",
+    "gestor": "node ./javascript-compilados/GestorLegajosAlumno.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
